@@ -2,12 +2,7 @@
 
 - type: github
   icon: "fab fa-github"
-
-- type: email
-  icon: "fas fa-envelope"
-  noblank: false # open link in current tab
-  url : "https://mail.google.com/mail/?view=cm&fs=1&to=farisdnish79@gmail.com"  
-  
+   
 - type: linkedin
   icon: "fab fa-linkedin"
   noblank: false # Opens in a new tab
