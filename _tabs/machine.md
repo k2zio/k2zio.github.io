@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Machines
+title: Machines Pwned
 icon: fas fa-microchip
 order: 5
 ---
